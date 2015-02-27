@@ -17,7 +17,7 @@ description: "GDG DevFest is a set of events all around the world"
 email: "devfest@gdg.org.ua"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/womentechmakers"
-url: "/gdg-nouakchott"
+url: "/gdg-nouakchott.github.io"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
@@ -26,12 +26,10 @@ siteVerification: "b9imDOrFawXaBXCC4r3uJDdswSYcalD-wWpMYhFq-no"
 # Organizer Info
 organizerName: "GDG Nouakchott"
 organizerAlternateName: "Google Developer Group Nouakchott"
-organizerName: "GDG Nktt"
-organizerAlternateName: "Google Developer Group Lviv"
-organizerDescription: "Open and volunteer geek communities who create exciting projects and share experience about Google technology with passion."
-organizerEmail: "lviv@gdg.org.ua"
+organizerDescription: "un groupe de développeurs  jouissant d’une expérience considérable dans l’informatique et l’utilisation de la technologie sur tous les outils Google."
+organizerEmail: "nkctt@gdg.org.ua"
 organizerLogo: "/img/seo/wtm-logo.png"
-organizerLink: "http://lviv.gdg.org.ua/"
+organizerLink: "http://nkctt.gdg.org.ua/"
 
 # Head
 metaKeywords: "event, gdg, devfest, google, programming, android, chrome, developers, lviv"
@@ -77,7 +75,7 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "150", specialCharacter: "+", info: "attendees", detail: "Developpeurs,Desiners,Etudiants,Femmes et hommes"}
  - {count: "8", specialCharacter: "+", info: "hours", detail: "pure Google technologies"}
- - {count: "5", specialCharacter: "+", info: "speakers", detail: "Experts"}
+ - {count: "5", specialCharacter: "+", info: "speakers", detail: "Experts en technologie et l'innovation"}
  
 # Latest News Block
 latestNewsTitle: ""
@@ -113,11 +111,7 @@ venueSmallImage3: "venue_3.jpg"
 venueTitle: "Kinopalace Cinema"
 venueFeatures: ["3 huge cinema screens", "Doulby Digital Surround EX audio system", "Located directly in the city center"]
 
-# Tweets Feed Block
-tweetsFeedImage: "twitter-feed.jpg"
-tweetsFeedTitle: "What's Up?"
-twitterHashTag: "devfest"
-twitterFeed: "http://lviv.gdg.org.ua/tweetledee/favoritesjson.php?c=10&cache_interval=8000"
+
 
 # Partners Block
 organizersTitle: "Organizers"
