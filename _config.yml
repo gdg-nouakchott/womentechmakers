@@ -56,12 +56,12 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "nktt-nuit.jpg"
 heroTitle: "Women Techmakers Nouakchott"
-eventDate: "22 Mars , 2014"
+eventDate: "22 Mars , 2015"
 typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Devenez un speaker"}
- - {permalink: "/#tickets", text: "Reserver un biellet"}
+ - {permalink: "https://www.eventbrite.ca/e/billets-women-techmakers-nouakchott-15859390865", text: "Reserver un biellet"}
 
 # About Block
 aboutTitle: "Women Techmakers Nouakchott"
@@ -75,10 +75,10 @@ statisticBlockImage: "statistic.jpg"
 statisticBlock:
  - {count: "150", specialCharacter: "+", info: "attendees", detail: "Developpeurs,Desiners,Etudiants,Femmes et hommes"}
  - {count: "8", specialCharacter: "+", info: "hours", detail: "pure Google technologies"}
- - {count: "5", specialCharacter: "+", info: "speakers", detail: "Experts en technologie et l'innovation"}
+ - {count: "3", specialCharacter: "+", info: "speakers", detail: "Experts en technologie et l'innovation"}
  
 # Latest News Block
-latestNewsTitle: "Connect. Create. Celebrate."
+latestNewsTitle: ""
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
