@@ -17,7 +17,7 @@ description: "GDG DevFest is a set of events all around the world"
 email: "devfest@gdg.org.ua"
 description: "GDG DevFest is a set of events all around the world"
 baseurl: "/womentechmakers"
-url: "/gdg-nouakchott.github.io"
+url: "/gdg-nouakchott"
 permalink: "/blog/:title"
 googleAnalyticsTrackingId: ""
 googleAnalyticsSiteUrl: ""
@@ -58,7 +58,7 @@ rightNavigationButtons:
 # Hero Block
 heroImage: "nktt-nuit.jpg"
 heroTitle: "Women Techmakers Nouakchott"
-eventDate: "24 Mars , 2014"
+eventDate: "22 Mars , 2014"
 typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
 typeoutFallback: "Season"
 heroButtons:
@@ -66,21 +66,21 @@ heroButtons:
  - {permalink: "/#tickets", text: "Reserver un biellet"}
 
 # About Block
-aboutTitle: "About Women Techmakers Nouakchott"
+aboutTitle: "Women Techmakers Nouakchott"
 aboutBlock:
- - {title: "Conference", image: "conference.jpg", text: "The biggest Google related event in the country carefully crafted for you by GDG community! Awesome speakers and lots of fun!" }
- - {title: "Atelier", image: "workshop.jpg", text: "Full-day of workshops, hands-on experience, hacking and debugging. Come and tame your favourite technology!" }
+ - {title: "Conference", image: "conference.jpg", text: "Le plus grand événement lié Google dans le pays soigneusement conçu pour vous par la communauté GDG! Speakers impressionnants et beaucoup de plaisir!" }
+ - {title: "Atelier", image: "workshop.jpg", text: "Journée complète d'ateliers, expérience pratique, le piratage et le débogage. Venez apprivoiser votre technologie préférée!" }
  - {title: "Discussion", image: "hackathon.jpg", text: "L'avenir des Femmes et TIC en Mauritanie" }
 
 # Statistic Block
 statisticBlockImage: "statistic.jpg"
 statisticBlock:
- - {count: "150", specialCharacter: "+", info: "attendees", detail: "from everywhere"}
- - {count: "8", specialCharacter: "+", info: "hours", detail: "of pure Google technologies"}
- - {count: "5", specialCharacter: "+", info: "speakers", detail: "from country and beyond"}
+ - {count: "150", specialCharacter: "+", info: "attendees", detail: "Developpeurs,Desiners,Etudiants,Femmes et hommes"}
+ - {count: "8", specialCharacter: "+", info: "hours", detail: "pure Google technologies"}
+ - {count: "5", specialCharacter: "+", info: "speakers", detail: "Experts"}
  
 # Latest News Block
-latestNewsTitle: "Latest news"
+latestNewsTitle: ""
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
