@@ -61,7 +61,7 @@ typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
 typeoutFallback: "Season"
 heroButtons:
  - {link: "http://bit.ly/dfua-c4p", text: "Devenez un speaker"}
- - {permalink: "https://www.eventbrite.ca/e/billets-women-techmakers-nouakchott-15859390865", text: "Reserver un biellet"}
+ - {link: "https://www.eventbrite.ca/e/billets-women-techmakers-nouakchott-15859390865", text: "Reserver un biellet"}
 
 # About Block
 aboutTitle: "Women Techmakers Nouakchott"
