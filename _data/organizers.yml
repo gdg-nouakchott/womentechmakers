@@ -1,7 +1,7 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Nouakchott", description: "GDG Nouakchott - Communauté ouverte de technologie", link: "", imageUrl: "gdg-lviv.svg"}
+    - {name: "GDG Nouakchott", description: "GDG Nouakchott - Communauté ouverte de technologie", link: "", imageUrl: "Nouakchott.svg"}
 - 
   group: "Co-organizers"
   elements: 
