@@ -1,10 +1,6 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Nouakchott", description: "GDG Nouakchott - Communauté ouverte de technologie", link: "", imageUrl: "Nouakchott.svg"}
-- 
-  group: "Co-organizers"
-  elements: 
-    - {name: "GDG Nouakchott", description: "GDG Nouakchott - Communauté ouverte de technologie", link: "http://kyiv.gdg.org.ua", imageUrl: "gdg-kyiv.svg"}
-    - {name: "GDG Cherkassy", description: "GDG Cherkassy - Open and volunteer geek community", link: "http://cherkassy.gdg.org.ua", imageUrl: "gdg-cherkasy.svg"}
-    - {name: "GDG Dnipropetrovsk", description: "GDG Dnipropetrovsk - Open and volunteer geek community", link: "http://dnipro.gdg.org.ua", imageUrl: "gdg-dnipropetrovsk.svg"}
+    - {name: "GDG Nouakchott", description: "GDG Nouakchott - Communauté ouverte de technologie", link: "", imageUrl: "GDG_Nouakchott.svg"}
+    
+    
