@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/", text: "Accueil"}
  - {permalink: "/schedule/", text: "Programme-Speakers"}
  - {link: "https://www.eventbrite.ca/e/billets-women-techmakers-nouakchott-15859390865", text: "Inscription"}
-bottomNavigationLinks:
+# bottomNavigationLinks:
  - {link: "http://goo.gl/forms/RMrdVNZVO3", text: "Devenir un Speaker"}
 rightNavigationButtons:
  - {link: "http://goo.gl/forms/RMrdVNZVO3", text: "Devenir un speaker"}
