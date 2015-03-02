@@ -48,7 +48,7 @@ navigationLinks:
  - {permalink: "/", text: "Accueil"}
  - {permalink: "/schedule/", text: "Programme-Speakers"}
  - {link: "https://www.eventbrite.ca/e/billets-women-techmakers-nouakchott-15859390865", text: "Inscription"}
-# bottomNavigationLinks:
+
  - {link: "http://goo.gl/forms/RMrdVNZVO3", text: "Devenir un Speaker"}
 rightNavigationButtons:
  - {link: "http://goo.gl/forms/RMrdVNZVO3", text: "Devenir un speaker"}
@@ -78,7 +78,7 @@ statisticBlock:
  - {count: "3", specialCharacter: "+", info: "speakers", detail: "Experts en technologie et l'innovation"}
  
 # Latest News Block
-latestNewsTitle: ""
+latestNewsTitle: "Plus d'informations"
 
 # Rockstar Speakers Block
 rockstarSpeakersImage: "rockstar-speakers.jpg"
@@ -120,7 +120,7 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/u/0/b/105671222006986281175/105671222006986281175/posts", icon: "google-plus"}
+ - {link: "https://plus.google.com/u/0/b/105671222006986281175/105671222006986281175/", icon: "google-plus"}
  - {link: "", icon: "twitter"}
  - {link: "https://www.facebook.com/WTMNouakchott", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
