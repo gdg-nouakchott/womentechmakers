@@ -46,12 +46,10 @@ c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 # Navigation
 navigationLinks:
  - {permalink: "/", text: "Accueil"}
- - {permalink: "/schedule/", text: "Programme-Speakers"}
- - {link: "https://www.eventbrite.ca/e/billets-women-techmakers-nouakchott-15859390865", text: "Inscription"}
+ - {permalink: "/schedule/", text: "Savoir WTM"}
+ - {link: "https://www.eventbrite.ca/e/billets-women-techmakers-nouakchott-15859390865", text: "Programme"}
 
- - {link: "http://goo.gl/forms/RMrdVNZVO3", text: "Devenir un Speaker"}
-rightNavigationButtons:
- - {link: "http://goo.gl/forms/RMrdVNZVO3", text: "Devenir un speaker"}
+
 
 # Hero Block
 heroImage: "nktt-nuit.jpg"
@@ -60,7 +58,7 @@ eventDate: "22 Mars , 2015"
 typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "http://goo.gl/forms/RMrdVNZVO3", text: "Devenir un speaker"}
+ - {link: "https://docs.google.com/forms/d/1czf9LuuV7EN0-hQydqXgHDBOMLpPk5WQ15NlyiwacEA/viewform?usp=send_form", text: "Devenir un speaker"}
  - {link: "https://www.eventbrite.ca/e/billets-women-techmakers-nouakchott-15859390865", text: "Reserver un biellet"}
 
 # About Block
