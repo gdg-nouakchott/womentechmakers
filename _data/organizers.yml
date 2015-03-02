@@ -1,6 +1,6 @@
 - 
   group: "Main organizer"
   elements: 
-    - {name: "GDG Nouakchott", description: "GDG Nouakchott - Communauté ouverte de technologie", link: "https://developers.google.com/", imageUrl: "https://github.com/gdg-nouakchott/womentechmakers/blob/gh-pages/img/organizers/GDG_Nouakchott.svg"}
+    - {name: "GDG Nouakchott", description: "GDG Nouakchott - Communauté ouverte de technologie", link: "https://developers.google.com/", imageUrl: "https://github.com/gdg-nouakchott/womentechmakers/blob/gh-pages/img/organizers/GDG-Nouakchott.svg"}
     
     
