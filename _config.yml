@@ -39,7 +39,7 @@ socialImageSrcTwitter: "/img/seo/sharing-twitter.png"
 socialImageSrcFacebook: "/img/seo/sharing-facebook.png"
 
 # Documents
-c4pUrl: "http://bit.ly/dfua-c4p"
+c4pUrl: "hhttp://goo.gl/forms/RMrdVNZVO3"
 c4sponsorsUrl: "/assets/GDG_DevFest_Partnership.pdf"
 
 
@@ -49,9 +49,9 @@ navigationLinks:
  - {permalink: "/schedule/", text: "Programme-Speakers"}
  - {link: "https://www.eventbrite.ca/e/billets-women-techmakers-nouakchott-15859390865", text: "Inscription"}
 bottomNavigationLinks:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/RMrdVNZVO3", text: "Become a speaker"}
 rightNavigationButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Become a speaker"}
+ - {link: "http://goo.gl/forms/RMrdVNZVO3", text: "Become a speaker"}
 
 # Hero Block
 heroImage: "nktt-nuit.jpg"
@@ -60,7 +60,7 @@ eventDate: "22 Mars , 2015"
 typeoutTextValues: '"", "Season", "Ukraine", "Germany", "USA"'
 typeoutFallback: "Season"
 heroButtons:
- - {link: "http://bit.ly/dfua-c4p", text: "Devenez un speaker"}
+ - {link: "http://goo.gl/forms/RMrdVNZVO3", text: "Devenez un speaker"}
  - {link: "https://www.eventbrite.ca/e/billets-women-techmakers-nouakchott-15859390865", text: "Reserver un biellet"}
 
 # About Block
@@ -120,9 +120,9 @@ partnersC4sponsorsButton: "Become a sponsor"
 
 # Footer
 socialLinks:
- - {link: "https://plus.google.com/b/102444623953913144164", icon: "google-plus"}
- - {link: "https://twitter.com/intent/user?screen_name=GDGLviv", icon: "twitter"}
- - {link: "https://facebook.com/GDGLviv", icon: "facebook"}
+ - {link: "https://plus.google.com/u/0/b/105671222006986281175/105671222006986281175/posts", icon: "google-plus"}
+ - {link: "", icon: "twitter"}
+ - {link: "https://www.facebook.com/WTMNouakchott", icon: "facebook"}
  - {permalink: "/feed.xml", icon: "rss"}
 footerBlocks:
  -
