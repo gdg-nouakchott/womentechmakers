@@ -18,7 +18,7 @@
   title: ""
   description: ""
   subtype: workshop
-  speakers:
+  speakers: [, ]
   language: 
   complexity: "Intermediate"
   video: ""

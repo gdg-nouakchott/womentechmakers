@@ -7,6 +7,7 @@
   bio: ''
   thumbnailUrl: fatimetou.jpg
   rockstar: true
+  social: 
    
 - 
   id: 4
@@ -17,6 +18,7 @@
   bio: ""
   thumbnailUrl: mohamed.jpg
   rockstar: true
+      social: 
   
 - 
   id: 5
@@ -27,4 +29,4 @@
   bio: ""
   thumbnailUrl: khadija.jpg
   rockstar: true
-
+     social: 
