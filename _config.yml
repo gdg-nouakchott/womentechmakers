@@ -96,8 +96,8 @@ eventAddressCountry: "Mauritania"
 eventStartTime: "2015-03-22T10:00"
 eventDoorTime: "16:00"
 eventEndTime: "2015-03-23T20:00"
-eventPlaceCoordinates: "18.100609, -15.975016" 
-mapCenterCoordinates: "18.102111, -15.978030"
+eventPlaceCoordinates: "18.092142, -15.966671" 
+mapCenterCoordinates: "18.091367, -15.970147"
 mapMobileCenterCoordinates: "18.102111, -15.978030"
 
 # Venue Block
